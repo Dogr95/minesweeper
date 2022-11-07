@@ -1,6 +1,8 @@
-# Minesweeper in your browser!
+# Very simple minesweeper in your browser!
 
 > Written entirely in p5js and typescript!
+
+![preview](/preview.png?raw=true)
 
 Installation/Execution:
 1. `npm install`
