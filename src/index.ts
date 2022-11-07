@@ -2,9 +2,9 @@ import * as p5 from 'p5';
 import { Grid } from './grid';
 
 const width = 35;
-const height = 35;
+const height = 15;
 const spacing = 48;
-const numberOfMines = 1;
+const numberOfMines = 35;
 let grid: Grid;
 
 document.addEventListener('contextmenu', event => event.preventDefault());
